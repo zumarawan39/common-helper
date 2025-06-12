@@ -1,11 +1,11 @@
-# Common Helper Functions
+# Helprx
 
 A comprehensive collection of utility functions commonly used in React/TypeScript projects.
 
 ## Installation
 
 ```bash
-npm install odine-helper
+npm install helprx
 ```
 
 ## Usage
