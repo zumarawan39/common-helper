@@ -5,7 +5,7 @@ A comprehensive collection of utility functions commonly used in React/TypeScrip
 ## Installation
 
 ```bash
-npm install common-helper
+npm install odine-helper
 ```
 
 ## Usage
